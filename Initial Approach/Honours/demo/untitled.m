@@ -1,0 +1,1 @@
+obj = VideoReader('videos_train/brush_hair/April_09_brush_hair_u_nm_np1_ba_goo_0.avi');
